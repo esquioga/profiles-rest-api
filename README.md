@@ -1,3 +1,3 @@
 #Profiles REST API
 
-REST API provinding basci funcionality for managing user profiles.
+REST API provinding basic funcionality for managing user profiles.

@@ -23,7 +23,7 @@ class  HelloApiView(APIView):
             'Is mapped manually tourls'
         ]
 
-        return Response({'message' : 'Hello', 'an_apiview' : an_apiview})
+        return Response({ 'message' : 'Hello', 'an_apiview' : an_apiview})
 
     def post(self, request):
         """Create a hello message with our name."""
